@@ -1,0 +1,36 @@
+{
+    "people" : [
+        {
+            "name": "Paul",
+            "age": 59
+            },
+            {
+             "name": "Fred",
+             "age": 46 
+            },
+            {
+            "name": "George",
+            "age": 39
+            },
+            {
+            "name": "Jackie",
+            "age": 45 
+            },
+            {
+                "name": "Fred",
+                "age": 47
+            },
+            {
+                "name": "John",
+                "age": 52
+            },
+            {
+                "name": "Cloe",
+                "age": 39
+                },
+                {
+                    "name": "Joe",
+                    "age": 55
+                }
+    ]
+}
